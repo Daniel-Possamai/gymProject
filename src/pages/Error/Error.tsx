@@ -1,4 +1,4 @@
-
+import "./Error.scss";
 
 
 

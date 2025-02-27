@@ -1,0 +1,15 @@
+//reset css
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containerHome{
+    width: 1920px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid red;
+}
+

@@ -1,11 +1,13 @@
-
+import "./home.scss"
+import Header from "../../components/Header/Header";
 
 
 export default function Home() {
     return (
-    <div>
-      <h1>Home</h1>
-      <p>Welcome to the Home page!</p>
-    </div>
+      <div className="containerHome">
+        <Header />
+        <Header />
+        
+      </div>
   );
 }
